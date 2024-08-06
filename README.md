@@ -74,7 +74,6 @@ test(states);
 
 ```
 ## Screenshots
-![s1](./assets/Pasted image 20240805221755.png)
-![s2](./assets/Pasted image 20240805221811.png)
-
+![s1](./assets/s1.png)
+![s2](./assets/s2.png)
 
